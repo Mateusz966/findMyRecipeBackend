@@ -1,0 +1,25 @@
+{
+  "name": "findmyrecipebackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node ./src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mateusz966/findMyRecipeBackend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mateusz966/findMyRecipeBackend/issues"
+  },
+  "homepage": "https://github.com/Mateusz966/findMyRecipeBackend#readme",
+  "dependencies": {
+    "@types/express": "^4.17.2",
+    "express": "^4.17.1",
+    "ts-node": "^8.5.2",
+    "typescript": "^3.7.2"
+  }
+}
